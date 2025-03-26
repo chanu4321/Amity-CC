@@ -1,0 +1,12 @@
+declare x 
+assign x 5 
+compute x plus 10 
+if x 
+    print "x is positive" 
+else 
+    print "x is zero" 
+repeat 3 
+    display x 
+    compute x minus 1 
+endrepeat 
+print "Test complete!" 
