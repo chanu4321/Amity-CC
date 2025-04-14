@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        ".env*": "dotenv",
-        "iosfwd": "cpp",
-        "iostream": "cpp"
-    }
-}
